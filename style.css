@@ -57,7 +57,11 @@ div {
     background-position: center;
     background-size: cover;
 }
-
+p{
+    margin-top: 10px;
+    margin-left: 10px;
+    color: aliceblue;
+}
 footer {
     margin-top: 500px;
     background-color: lightcyan;
