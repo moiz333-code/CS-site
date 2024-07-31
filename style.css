@@ -1,0 +1,59 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: url(Lock\ Screen.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+h1{
+    color: white;
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+div{
+    height: 250px;
+    width: 300px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    display: inline-block;
+}
+#box1{
+    background-color: black;
+    text-decoration: underline;
+    color: aliceblue;
+    background-image: url(main.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#box2{
+    color: aliceblue;
+    text-decoration: underline;
+    background-image: url(Masjid.jpg);
+    background-position: center;
+    background-size: cover;
+}
+ #box3{
+    text-decoration: underline;
+    color: aliceblue;
+  background-image: url(building.jpg);
+  background-position: center;
+  background-size: cover;
+ }
+ #box4{
+    color: aliceblue;
+    text-decoration: underline;
+    background-image: url(garden.jpg);
+    background-position: center;
+    background-size: cover;
+ }
+
+footer{
+    margin-top: 500px;
+    background-color: lightcyan;
+    height: 50px;
+    text-align: center;
+    padding-top: 25px;
+}
