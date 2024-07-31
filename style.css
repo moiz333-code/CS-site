@@ -69,3 +69,7 @@ footer {
     text-align: center;
     padding-top: 25px;
 }
+button{
+    margin-left: 10px;
+    text-decoration: none;
+}
