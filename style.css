@@ -9,6 +9,36 @@ body {
     background-size: cover;
 
 }
+header{
+    background-color: lightcyan;
+    height: 50px;
+}
+#mysite{
+    font-size: 20px;
+    height: 0px;
+    border: none;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#about{
+    font-size: 20px;
+    height: 0px;
+    border: none;
+}
+#contact{
+    font-size: 20px;
+    height: 0px;
+    border: none;
+}
+#blog{
+    font-size: 20px;
+    height: 0px;
+    border: none;
+}
+button{
+    background-color: darkslateblue;
+    color: white;
+}
 
 h1 {
     color: white;
