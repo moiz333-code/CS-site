@@ -1,6 +1,7 @@
 * {
     padding: 0px;
     margin: 0px;
+    
 }
 
 body {
@@ -13,27 +14,13 @@ header{
     background-color: lightcyan;
     height: 50px;
 }
+a{
+    text-decoration: none;
+    margin-right: 200px;
+}
 #mysite{
     font-size: 20px;
-    height: 0px;
-    border: none;
-    margin-top: 10px;
-    margin-left: 10px;
-}
-#about{
-    font-size: 20px;
-    height: 0px;
-    border: none;
-}
-#contact{
-    font-size: 20px;
-    height: 0px;
-    border: none;
-}
-#blog{
-    font-size: 20px;
-    height: 0px;
-    border: none;
+    margin-top: 25px;
 }
 button{
     background-color: darkslateblue;
@@ -49,7 +36,6 @@ h1 {
 div {
     height: 250px;
     width: 300px;
-    background-color: aquamarine;
     border: 2px solid black;
     border-radius: 10px;
     display: inline-block;
@@ -103,4 +89,5 @@ footer {
     background-color: darkslateblue;
     color: white;
     text-decoration: none;
+    margin-left: 11px;
 }
